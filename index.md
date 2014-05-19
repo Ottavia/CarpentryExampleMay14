@@ -13,6 +13,6 @@ ancora qualcosa, terza modifica
 
 *Cambiamento
 
-===================0
+===================
 
 * Last change 
