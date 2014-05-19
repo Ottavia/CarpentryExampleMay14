@@ -8,6 +8,3 @@ Cambio qualcosa
 ====================
 
 ancora qualcosa, terza modifica
-
-==============
-Quarta modifica
